@@ -17,7 +17,9 @@
     5º Formulários e validação
     6º CSS e estilização
   </p>
+   <p>
     Conclusão:
+  </p>
   <p>
     Este repositório é um recurso valioso para deixar recordado os exercicios que eu for resolvendo na minha longa jornada de estudos.
   </p>
