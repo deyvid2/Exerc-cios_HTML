@@ -4,7 +4,7 @@
   <body>
   
   
-    <h1>Repositório de exercícios de HTML</h1>
+  <h1>Repositório de exercícios de HTML</h1>
 
     Este repositório contém uma coleção de exercícios de HTML resolvidos por mim que cobrem uma ampla gama de tópicos, incluindo:
 
