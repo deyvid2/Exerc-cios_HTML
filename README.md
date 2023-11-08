@@ -11,10 +11,10 @@
   </p>
   <p>
     1º Elementos e atributos básicos<br>
-    2º Estrutura de páginas web
-    3º Cabeçalhos, parágrafos e listas
-    4º Imagens e tabelas
-    5º Formulários e validação
+    2º Estrutura de páginas web<br>
+    3º Cabeçalhos, parágrafos e listas<br>
+    4º Imagens e tabelas<br>
+    5º Formulários e validação<br>
     6º CSS e estilização
   </p>
    <p>
