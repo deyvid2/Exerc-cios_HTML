@@ -6,7 +6,9 @@
   
   <h1>Repositório de exercícios de HTML</h1>
 
+  <p>
     Este repositório contém uma coleção de exercícios de HTML resolvidos por mim que cobrem uma ampla gama de tópicos, incluindo:
+  </p>
 
     1º Elementos e atributos básicos<br>
     2º Estrutura de páginas web
